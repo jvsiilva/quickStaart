@@ -1,4 +1,45 @@
+html {
+  font-size: 62.5%;
+}
 body {
   background-color: #000000;
   color: #ffffff;
+  font-size: 1.6rem;
+  font-family: "Poppins", sans-serif;
 }
+.container-principal {
+  display: flex;
+  height: 100vh;
+}
+.container {
+  width: 50%;
+}
+.centralizar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.principal {
+}
+
+.princial-logo {
+  font-size: 6rem;
+}
+
+.principal-titulo {
+  font-size: 3rem;
+}
+
+.principal-descricao {
+  margin: 3rem 0;
+}
+
+/*
+fonte
+posicionamnto 
+espaçamento
+card
+botões
+
+
+*/

@@ -9,7 +9,7 @@ function proximaPergunta(proximaPergunta) {
 
   var cardDiv = document.createElement("div");
 
-  cardDiv.classList.add("card");
+  cardDiv.classList.add("card", "animate__animated", "animate__backInRight");
 
   console.log(proximaPergunta);
   cardDiv.innerHTML = `
